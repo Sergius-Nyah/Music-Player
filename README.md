@@ -2,8 +2,7 @@
 ![Music Player Logo](..path) // Coming soon :)
 
 ## Description
-A simple music player application built with C++ which allows users to easily manage and play their favorite music tracks.
-
+A simple music player application built with C++ which allows users to easily manage and play their favorite music tracks from the Terminal.
 ## Features
 - **Play, Pause, and Skip**: Control playback of your music tracks with ease.
 - **Playlist Management**: Create and manage playlists to organize your music collection.
@@ -54,3 +53,4 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Contact
 
 For any inquiries or support, please contact [me](https://sergius.tech) at sergiusnyah@gmail.com
+``
