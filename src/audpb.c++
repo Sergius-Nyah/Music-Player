@@ -1,6 +1,7 @@
 #include <SFML/Audio.hpp>
 #include <iostream>
 #include <string>
+using namespace std
 
 sf::Music music;
 
@@ -10,9 +11,9 @@ int main() {
     }
 
     while (true) {
-        std::cout << "Enter command (play, pause, stop): ";
-        std::string command;
-        std::getline(std::cin, command);
+        cout << "Enter command (play, pause, stop): ";
+        string command;
+        getline(std::cin, command);
 
         if (command == "play") {
             music.play();
@@ -23,7 +24,7 @@ int main() {
         } else if (command == "exit") {
             break;
         } else {
-            std::cout << "Unknown command\n";
+            cout << "Unknown command\n";
         }
     }
 
