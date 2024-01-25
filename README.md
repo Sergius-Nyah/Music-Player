@@ -1,6 +1,6 @@
-# Music Player
+# Music Player 
 ![Music Player Logo](..path) // Coming soon :)
-
+ 
 ## Description
 A simple music player application built with C++ which allows users to easily manage and play their favorite music tracks from the Terminal.
 ## Features
@@ -41,6 +41,9 @@ A simple music player application built with C++ which allows users to easily ma
 
 ## Contributing
 PRs are always welcomed! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## Dependencies
+1. SFML Library (sudo apt-get install libsfml-dev)
 
 ## License
 
